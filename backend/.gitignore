@@ -1,4 +1,14 @@
-# Ignore typical 
+# Ignore virtual environment directory
+venv/
+
+# Ignore other common files and directories
 __pycache__/
 *.pyc
-venv/
+*.pyo
+*.pyd
+*.env
+.env
+.DS_Store
+.idea/
+.vscode/
+*.log
