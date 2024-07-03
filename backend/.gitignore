@@ -1,3 +1,4 @@
 # Ignore typical 
 __pycache__/
 *.pyc
+.venv/
